@@ -7,3 +7,5 @@ And here's some text.
 ```
 I'm also going to make some changes.
 ```
+
+Making new changes.
